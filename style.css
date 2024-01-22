@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url('img/sustentavel.jpg'); /* Substitua pelo caminho da sua imagem */
+    background-image: url('img/sustentavel.jpg'); 
     background-size: cover;
 }
 
@@ -15,7 +15,7 @@ body {
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    width: 500px; /* Defina a largura desejada */
+    width: 500px; 
 }
 
 h1 {
@@ -42,7 +42,7 @@ button:hover {
 
 h1 {
     text-align: center;
-    color: rgb(61, 170, 61); /* Cor verde */
+    color: rgb(61, 170, 61);
 }
 
 
